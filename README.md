@@ -1,3 +1,19 @@
+## 🔴 BREAKING: TIMESTAMPED PREDICTIONS REGISTERED
+**Official predictions for 2025-2027 registered on OSF at 03:16 AM, September 3, 2025**  
+View timestamped predictions: https://osf.io/3gvce/
+
+## Latest Discovery: Universal Trust Threshold τ* = 0.68
+- **Paper Status**: Under review at Physical Review Letters (submitted Sept 2, 2025)
+- **Preprint Available**: https://doi.org/10.5281/zenodo.17039131
+- **Validation**: 124 schemes across 6 continents (1972-2024)
+
+## Key Resources
+- **OSF Project (Predictions)**: https://osf.io/3gvce/
+- **Primary Dataset**: https://doi.org/10.5281/zenodo.17008749
+- **Trust-Responsive Evidence**: https://doi.org/10.5281/zenodo.16749650
+- **Zenodo Preprint**: https://doi.org/10.5281/zenodo.17039131
+
+---
 # S=T×C×DB Framework
 
 ## 🔴 BREAKING: TIMESTAMPED PREDICTIONS NOW REGISTERED

@@ -5,7 +5,7 @@
 - Section: Science, Society and Policy
 - Submitted: September 4, 2025
 
-[Your existing README content continues below...]
+
 ## 🔴 BREAKING: TIMESTAMPED PREDICTIONS REGISTERED
 **Official predictions for 2025-2027 registered on OSF at 03:16 AM, September 3, 2025**  
 View timestamped predictions: https://osf.io/3gvce/

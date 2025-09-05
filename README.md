@@ -56,6 +56,64 @@ explaining why national programs fail while village programs succeed.
 David Mark Dror: daviddror@socialre.org
 
 
+# The Trinity Law: S = T×C×D
+
+## Mathematical Law Governing Village-Level Collective Action
+
+**Discovered by Dr. David M. Dror & Prof. Gérard Duru**
+
+### Current Status (September 5, 2025)
+📄 **Paper submitted to Royal Society Open Science** - Manuscript ID: RSOS-251693  
+🔬 Under peer review in Science, Society and Policy section
+
+### The Law
+**S = T × C × D** (valid for groups <500 people)
+
+Where:
+- **S** = Societal Effectiveness 
+- **T** = Trust (phase transition at τ* = 0.68)
+- **C** = Consensus (unity of decision and implementation)
+- **D** = Dual Benefit Framework (individual-collective alignment)
+
+### Key Discovery: The 500-Person Boundary
+- **Below 500 people**: Trinity Law works with 85% accuracy
+- **Above 500 people**: Formula breaks down due to cognitive limits
+- **Critical threshold**: τ* = 0.68 for village-level programs
+
+### Evidence Base (7 Zenodo Repositories)
+1. Phase Transitions Dataset (124 schemes): https://doi.org/10.5281/zenodo.17008749
+2. S=T×C×DB Framework: https://doi.org/10.5281/zenodo.16997369  
+3. Dual Benefit Validation: https://doi.org/10.5281/zenodo.16921864
+4. Global Consensus Database: https://doi.org/10.5281/zenodo.16885917
+5. Trust-Responsive Evidence: https://doi.org/10.5281/zenodo.16749650
+6. Health System Trust: https://doi.org/10.5281/zenodo.16628426
+7. Insurance Taxonomy: https://doi.org/10.5281/zenodo.16089553
+
+### Validation
+- 124 community programmes (village level)
+- 85% prediction accuracy for groups <500
+- Sweet spot for microinsurance: 200-450 members
+
+### Testable Predictions (Village Level)
+- Programs with T < 0.68 at village level will fail (90% confidence)
+- Microinsurance schemes with 200-450 members will outperform larger/smaller ones
+- Village federations preserving local autonomy will succeed better than uniform scaling
+
+### Scale Limitation Finding
+At country level, trust and consensus show NEGATIVE correlation (r = -0.507), 
+explaining why national programs fail while village programs succeed.
+
+### Publications Under Review
+- Royal Society Open Science: RSOS-251693 (Sept 4, 2025)
+- Physical Review Letters: LJ18744 (Sept 2, 2025)
+- Journal of Development Economics: DEVEC-D-25-01875 (Aug 31, 2025)
+- The Journal of Politics (Aug 25, 2025)
+- Journal of Public Policy (Aug 16, 2025)
+
+### Contact
+David Mark Dror: daviddror@socialre.org
+
+
 ## Latest Update - September 5, 2025
 **🎯 Paper Submitted to Royal Society Open Science**
 - Manuscript ID: RSOS-251693  

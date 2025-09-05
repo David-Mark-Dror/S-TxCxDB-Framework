@@ -4,6 +4,13 @@
 
 **Discovered by Dr. David M. Dror & Prof. Gérard Duru**
 
+### ⚠️ CRITICAL: Valid ONLY for groups <500 people
+# The Trinity Law: S = T×C×D
+
+## Mathematical Law Governing Village-Level Collective Action
+
+**Discovered by Dr. David M. Dror & Prof. Gérard Duru**
+
 ### Current Status (September 5, 2025)
 📄 **Paper submitted to Royal Society Open Science** - Manuscript ID: RSOS-251693  
 🔬 Under peer review in Science, Society and Policy section
